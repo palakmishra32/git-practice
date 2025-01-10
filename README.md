@@ -1,1 +1,1 @@
-# git-practice
+# Lab 1: git-practice 
